@@ -34,5 +34,5 @@ NeuMF (with pre-training)	 | 0.720 | 0.439 | 0.879 | 0.555
 
 ## Example to run:
 ```
-python main.py --batch_size=256 --lr=0.001 --factor_num=16
+python main.py --batch_size=256 --lr=0.001 --factor_num=32
 ```
